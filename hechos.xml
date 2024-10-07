@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hechos>
+    <hecho descripcion="Bomba hirosima">
+        <dia>6</dia>
+        <mes>8</mes>
+        <año>1945</año>
+    </hecho>
+    <hecho descripcion="Inicio de la revoluicion industrial">
+        <dia>1</dia>
+        <mes>1</mes>
+        <año>1760</año>
+    </hecho>
+    <hecho descripcion="Caiada del imperio romano de occidente">
+        <dia>4</dia>
+        <mes>9</mes>
+        <año>476</año>
+    </hecho>
+</hechos>

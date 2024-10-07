@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<pedidos>
+   <pedido cod="1">
+      <fecha>21-08-2024</fecha>
+      <pu>2.50</pu>
+      <cantidad>3</cantidad>
+      <descripcion>Tostadas con mantequilla</descripcion>
+      <tipo>C</tipo>
+   </pedido>
+   <pedido cod="2">
+      <fecha>03-04-2024</fecha>
+      <pu>16</pu>
+      <cantidad>1</cantidad>
+      <descripcion>Menu Desayuno</descripcion>
+      <tipo>A</tipo>
+   </pedido>
+</pedidos>

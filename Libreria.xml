@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<biblioteca>
+    <libro>
+        <titulo>Buenas noches Punpun</titulo>
+        <autor>Inio Asano</autor>
+        <añoPublicacion>2003</añoPublicacion>
+    </libro>
+    <libro>
+        <titulo>Luces de bohemia</titulo>
+        <autor>Ramon del valle</autor>
+        <añoPublicacion>1920</añoPublicacion>
+    </libro>
+    <libro>
+        <titulo>The walking dead</titulo>
+        <autor>Robert Kinkman</autor>
+        <añoPublicacion>2014</añoPublicacion>
+    </libro>
+</biblioteca>

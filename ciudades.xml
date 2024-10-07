@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ciudades>
+    <ciudad continente="Europa">
+        <nombre>Berlin</nombre>
+        <pais>Alemania</pais>
+    </ciudad>
+    <ciudad continente="Sudamerica">
+        <nombre>Buenos Aires</nombre>
+        <pais>Argentina</pais>
+    </ciudad>
+    <ciudad continente="Europa">
+        <nombre>Cordoba</nombre>
+        <pais>JEspaña</pais>
+    </ciudad>
+</ciudades>
